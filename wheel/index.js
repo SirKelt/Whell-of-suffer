@@ -336,7 +336,7 @@ function getImageURI(index) {
             }
             break;
 
-        case "streamers":
+        case "players":
             result = '../images/streamers/'+ dataSets[currentDataSet][index] +'.png';
             break;
     }
