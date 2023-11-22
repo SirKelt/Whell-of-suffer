@@ -274,8 +274,6 @@ function getImageURI(index) {
     ;
     switch (currentDataSet) {
         case "inventory":
-            offset = 1;
-        case "effects":
 			const mapping2 = [
 				2,
 				3,
@@ -293,6 +291,57 @@ function getImageURI(index) {
 				47
 			];
 			result = '../hpg-inventory/images/0' + ('0' + (mapping2[index])).slice(-2) + '.png';
+			break;
+        case "effects":
+			const mapping3 = [
+				34,
+				20,
+				19,
+				5,
+				12,
+				44,
+				43,
+				31,
+				29,
+				35,
+				18,
+				2,
+				3,
+				7,
+				36,
+				16,
+				10,
+				26,
+				45,
+				27,
+				24,
+				41,
+				33,
+				25,
+				40,
+				42,
+				47,
+				4,
+				30,
+				6,
+				21,
+				28,
+				32,
+				15,
+				17,
+				11,
+				46,
+				37,
+				23,
+				8,
+				1,
+				38,
+				13,
+				9,
+				22,
+				14
+			];
+			result = '../hpg-inventory/images/0' + ('0' + (mapping3[index])).slice(-2) + '.png';
 			break;
 
 
