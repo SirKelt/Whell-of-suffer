@@ -280,7 +280,7 @@ function getImageURI(index) {
 				2,
 				3,
 				4,
-				14,
+				13,
 				16,
 				17,
 				21,
