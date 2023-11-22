@@ -95,13 +95,16 @@ const dataSets = {
         'Решка',
         'Ребро!',
     ],
-    streamers: [
-        'MistaFaker',
-        'Lasqa',
-        'Liz0n',
-        'Melharucos',
-        'UselessMouth',
-        'UncleBjorn',
+    players: [
+        'Rextrel',
+        'Sir_Kelt',
+        'Ora',
+        'LeEblan',
+        'LiStOw',
+        'ZBZ',
+		'Slavutich',
+		'Lentilles',
+		'SuperAdolf',
     ],
     debuffs: [
         'Мистер Ржавчик',
