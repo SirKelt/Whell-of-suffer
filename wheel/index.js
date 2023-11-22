@@ -276,7 +276,7 @@ function getImageURI(index) {
         case "inventory":
             offset = 0;
         case "effects":
-			const mapping = [
+			const mapping2 = [
 				2,
 				3,
 				4,
@@ -292,7 +292,7 @@ function getImageURI(index) {
 				44,
 				47
 			];
-			result = '../hpg-inventory/images/0' + ('0' + (mapping[index])).slice(-2) + '.png';
+			result = '../hpg-inventory/images/0' + ('0' + (mapping2[index])).slice(-2) + '.png';
 			break;
 
 
