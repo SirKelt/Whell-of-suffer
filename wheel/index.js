@@ -276,15 +276,9 @@ function getImageURI(index) {
         case "inventory":
             offset = 0;
         case "effects":
-            const mapping = [
-                5,
-                12,
-                14,
-                28,
-                46
-            ];
-            result = '../hpg-inventory/images/0' + ('0' + (mapping[index])).slice(-2) + '.png';
-            break;
+            result = '../hpg-inventory/images/0' + ('0' + (index+1 + offset)).slice(-2) + '.png';
+			break;
+
 
         case "debuffs":
             const mapping = [
