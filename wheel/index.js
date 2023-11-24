@@ -381,7 +381,7 @@ const p5Instance = new p5(wheelSketch);
 
 p5Instance.onAfterSetup = function () {
     p5Instance.setVideos([
-
+        ['videos/All Star but they don\'t stop coming pitch corrected.mp4', 20],
         'videos/6 отвлекающих кадров.mp4',
 
     ]);
