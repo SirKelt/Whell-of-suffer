@@ -391,9 +391,9 @@ p5Instance.onAfterSetup = function () {
 		['videos/Every_Mirage_Match_Ever.mp4', 17],
 		['videos/Чем занимался Пин в сороковые.mp4', 4],
 		['videos/Top Gear in Skyrim goes wrong.mp4', 18],
+		['videos/Бразильский мальчик поёт.mp4', 8],
 		['videos/ultdank.mp4', 173],
 		'videos/Дугин о борьбе с депрессией.mp4',
-		'videos/Бразильский мальчик поёт.mp4',
 		'videos/This is my Kingdom Come.mp4',
 		'videos/W.mp4',
 		'videos/Shadow Wizard Money Gang but Baldurs Gate 3.mp4',
@@ -403,7 +403,7 @@ p5Instance.onAfterSetup = function () {
 		'videos/6 отвлекающих кадров.mp4',
 		'videos/Music make you lose control triangle.mp4',
 		'videos/02.mp4',
-		'videos/04.mp4',
+		//'videos/04.mp4',
 		'videos/06.mp4',
         
         
