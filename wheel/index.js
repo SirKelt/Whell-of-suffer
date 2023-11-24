@@ -393,6 +393,7 @@ p5Instance.onAfterSetup = function () {
 		//['videos/Top Gear in Skyrim goes wrong.mp4', 18],
 		//['videos/Бразильский мальчик поёт.mp4', 8],
 		//['videos/ultdank.mp4', 173],
+		['videos/Папич-марш  прощание славянки .9мая.mp4', 7],
 		//'videos/Дугин о борьбе с депрессией.mp4',
 		//'videos/This is my Kingdom Come.mp4',
 		//'videos/W.mp4',
@@ -405,6 +406,8 @@ p5Instance.onAfterSetup = function () {
 		//'videos/02.mp4',
 		//'videos/04.mp4',
 		//'videos/06.mp4',
+		'videos/17.mp4',
+        'videos/18.mp4',
 		'videos/Half_lifes.mp4',
         
         
