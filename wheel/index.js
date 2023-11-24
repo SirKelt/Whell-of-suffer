@@ -51,6 +51,8 @@ const dataSets = {
 		'Тихий тиминг',
 		'Тухлая шаверма',
 		'Парные кольца времени',
+		'Спидранерский телепорт',
+		'Штраф за превышение',
 		
 		
 
@@ -321,7 +323,9 @@ function getImageURI(index) {
 				44,
 				45,
 				46,
-				47
+				47,
+				48,
+				49
 			];
 			result = '../hpg-inventory/images/0' + ('0' + (mapping3[index])).slice(-2) + '.png';
 			break;
