@@ -382,7 +382,14 @@ const p5Instance = new p5(wheelSketch);
 p5Instance.onAfterSetup = function () {
     p5Instance.setVideos([
 		['videos/All Star but they don\'t stop coming pitch corrected.mp4', 20],
+		['videos/Сыновья России. Кто пчелок уважает.mp4', 26],
+		['videos/Пузантос - Бумаги [Morrowind].mp4', 129],
+		'videos/[Re-upload] [1080p] HONK HONK.mp4',
 		'videos/6 отвлекающих кадров.mp4',
+		'videos/Music make you lose control triangle.mp4',
+		'videos/02.mp4',
+		'videos/04.mp4',
+		'videos/06.mp4',
         
         
 
