@@ -406,9 +406,9 @@ p5Instance.onAfterSetup = function () {
 		//'videos/02.mp4',
 		//'videos/04.mp4',
 		//'videos/06.mp4',
-		'We Are Number One but its woahed by Crash Bandicoot.mp4',
+		'videos/We Are Number One but its woahed by Crash Bandicoot.mp4',
 		//'videos/18.mp4',
-       //'videos/19.mp4',
+        //'videos/19.mp4',
 		//'videos/Half_lifes.mp4',
         
         
