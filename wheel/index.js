@@ -398,7 +398,7 @@ p5Instance.onAfterSetup = function () {
 		//['videos/Diamond.mp4',49],
 	    ['videos/Убийца Стас Барецкий.mp4',10],
 		['videos/Папич-марш  прощание славянки .9мая.mp4', 7],
-		'videos/ultdank.mp4'
+		'videos/ultdank.mp4',
 		//'videos/Дугин о борьбе с депрессией.mp4',
 		'videos/This is my Kingdom Come.mp4',
 		'videos/W.mp4',
