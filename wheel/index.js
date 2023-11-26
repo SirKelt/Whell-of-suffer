@@ -393,7 +393,7 @@ p5Instance.onAfterSetup = function () {
 		['videos/Top Gear in Skyrim goes wrong.mp4', 18],
 		['videos/Бразильский мальчик поёт.mp4', 8],
 		['videos/Rovio.mp4',5],
-		['videos/Old Gods.mp4',6],
+		['videos/Old Gods2.mp4',6],
 		'videos/the rain.mp4',
 		//['videos/Diamond.mp4',49],
 	    ['videos/Убийца Стас Барецкий.mp4',10],
