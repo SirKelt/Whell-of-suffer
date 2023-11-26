@@ -61,17 +61,26 @@ const dataSets = {
         'Фантомные штаны',
 		'Шоколад Вадима',
 		'Свиток реролла',
+		'Внезапное озарение',
 		'Бутылочка молочка',
 		'Четырехлистный клевер',
 		'Ремонтный набор',
+		'Интрига',
 		'Тот самый куст',
+		'Два по цене одного',
 		'Плюсовый блокнот',
 		'Спойлер',
 		'Мидас',
+		'Красочная манга',
+		'Золотой какиш',
+		'Кулер удачи',
 		'Третий глаз',
 		'Читерский кубик',
+		'ТРИ!',
+		'Активация Цindows',
 		'Аегис',
 		'Парные кольца времени',
+		'Спидранерский телепорт'
 
     ],
     coin: [
@@ -100,10 +109,13 @@ const dataSets = {
     ],
     debuffs: [
         'Эстонские часы',
+		'Возвращение Киромы',
         'Кубик хуюбика',
         'Взрывчатка',
+		'Интрига',
         'Маска Канеки Кека',
         'Тухлая шаверма',
+		'Штраф за превышение',
     ]
 };
 let currentDataSet = 'inventory',
@@ -335,17 +347,26 @@ function getImageURI(index) {
 				2,
 				3,
 				4,
+				10,
 				13,
 				16,
 				17,
+				18,
 				21,
+				20,
 				24,
 				30,
 				31,
+				36,
+				38,
+				39,
 				40,
 				41,
+				42,
+				43,
 				44,
-				47
+				47,
+				48
 			];
 			result = '../hpg-inventory/images/0' + ('0' + (mapping2[index])).slice(-2) + '.png';
 			break;
@@ -354,10 +375,13 @@ function getImageURI(index) {
         case "debuffs":
             const mapping = [
                 5,
+				9,
                 12,
                 14,
+				18,
                 28,
-                46
+                46,
+				49
             ];
             result = '../hpg-inventory/images/0' + ('0' + (mapping[index])).slice(-2) + '.png';
             break;
@@ -402,6 +426,7 @@ p5Instance.onAfterSetup = function () {
 		//'videos/Дугин о борьбе с депрессией.mp4',
 		'videos/This is my Kingdom Come.mp4',
 		'videos/W.mp4',
+		'videos/Me and Michael.mp4',
 		'videos/Shadow Wizard Money Gang but Baldurs Gate 3.mp4',
 		'videos/Arab Patrick Bateman Arabian Psycho.mp4',
 		'videos/ec3580.mp4',
