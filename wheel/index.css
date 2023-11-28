@@ -42,9 +42,9 @@ a:hover {
 	clip-path: ellipse(50% 50% at 50% 50%);
 }
 #video video {
-	height: 450px;
+	height: 600px;
 	object-fit: cover;
-	display: none;
+	/*display: none;*/
 }
 #video .overlay {
 	top: 0;
