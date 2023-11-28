@@ -48,7 +48,6 @@ a:hover {
 #video {
 	position: absolute;
 	left: 55%;
-	clip-path: ellipse(50% 50% at 50% 50%);
 }
 #video video {
 	height: 450px;
