@@ -6,7 +6,7 @@
 html, body {
 	margin: 0;
 	padding: 0;
-	background: #43065b;
+	background: #141e30;
 	overflow: hidden;
 	width: 100%;
 	height: 100%;
@@ -51,7 +51,7 @@ a:hover {
 	width: 100%;
 	height: 100%;
 	position: absolute;
-	background: radial-gradient(closest-side, transparent 60%, #43065b);
+	background: radial-gradient(closest-side, transparent 10%, #43065b);
 	/*box-shadow: 0 0 30px #19153a;*/
 }
 #volume-control {
@@ -170,7 +170,7 @@ button:disabled {
 }
 .hero-background-overlay {
 	position: absolute;
-	background: linear-gradient(to bottom, rgba(49,52,61,0) 0%, rgba(25, 21, 58, 0.70) 50%, #19153a 100%);
+	background: linear-gradient(to bottom, rgba(49,52,61,0) 0%, rgba(25, 21, 58, 0.70) 50%, #141e30 100%);
 	/*height: 150%;*/
 	height: 100%;
 	width: 100%;
