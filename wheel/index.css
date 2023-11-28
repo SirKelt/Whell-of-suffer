@@ -36,20 +36,23 @@ a:hover {
 	font-size: 0;
 }
 #video {
+	top: -50px;
 	position: absolute;
-	left: 40%;
+	left: 35%;
+	clip-path: ellipse(50% 50% at 50% 50%);
 }
 #video video {
-	height: 450px;
+	height: 600px;
 	object-fit: cover;
-	display: none;
+	/*display: none;*/
+}
 }
 #video .overlay {
 	top: 0;
 	width: 100%;
 	height: 100%;
 	position: absolute;
-	background: radial-gradient(closest-side, transparent 70%, #19153a);
+	background: radial-gradient(closest-side, transparent 60%, #141E30);
 	/*box-shadow: 0 0 30px #19153a;*/
 }
 #volume-control {
