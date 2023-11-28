@@ -440,6 +440,16 @@ p5Instance.onAfterSetup = function () {
 		'videos/18.mp4',
         'videos/19.mp4',
 		'videos/Half_lifes.mp4',
+		'videos/billy.mp4',
+		'videos/gavno.mp4',
+		'videos/gonshik.mp4',
+		'videos/hey.mp4',
+		'videos/karta.mp4',
+		'videos/kasino.mp4',
+		'videos/petecat.mp4',
+		'videos/rikroll.mp4',
+		'videos/wide-putin-ascii.mp4',
+		'videos/Кит.mp4',
         
         
 
